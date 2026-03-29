@@ -1,16 +1,25 @@
-# practice_project
+# 🔐 Login & Signup App — Flutter
 
-A new Flutter project.
+A Login and Signup UI built with Flutter while learning form design and navigation.
 
-## Getting Started
+## Current Status
+- 🎨 UI completed for Login and Signup screens
+- ✅ Checkbox (Remember me) working
+- 🔄 Navigation between Login ↔ Signup working
+- ⏳ Auth logic / database coming soon
 
-This project is a starting point for a Flutter application.
+## Features (UI)
+- Login screen with email, password fields
+- Signup screen
+- Remember me checkbox
+- Screen navigation
 
-A few resources to get you started if this is your first Flutter project:
+## Coming Soon
+- Firebase or SQLite authentication
+- Form validation
+- Session management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+- Flutter
+- Dart
+- Android Studio
